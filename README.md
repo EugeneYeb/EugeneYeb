@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EugeneYeb
 - 👀 I’m interested in Front-End Development
-- 🌱 I’m currently mastering React
+- 🌱 I’m currently mastering Next.js
 - 💞️ I’m looking to collaborate on YeboahDigital
 - 📫 How to reach me eugeneyeboah.com
 
